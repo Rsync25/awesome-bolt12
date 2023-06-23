@@ -34,7 +34,7 @@ Ecosystem around BOLT12 implementation
 - [Rust-Lightning](https://github.com/lightningdevkit/rust-lightning) - LDK/rust-lightning is a highly performant and flexible implementation of the Lightning Network protocol.
 
 
-## Wallets
+### Wallets
 
 TBD
 
