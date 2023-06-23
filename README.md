@@ -31,6 +31,9 @@ Ecosystem around BOLT12 implementation
 - [bolt12.dart](https://github.com/dart-lightning/lndart.bolt12) - A dart implementation of lightning network BOLT12
 
 
-## Wallet
+## Wallets
+
+TBD
+
 
 
