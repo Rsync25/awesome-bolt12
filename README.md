@@ -14,6 +14,7 @@ This means that offers can be much smaller than invoices, and contain more infor
 - [Website](https://bolt12.org/)
 - [Telegram group](https://t.me/bolt12org)
 - [PR with "Offer" option](https://github.com/lightning/bolts/pull/798)
+- [bootstrap.bolt12.org: API Guide bitcoin version ](https://bootstrap.bolt12.org/)
 
 ## Articles
 
