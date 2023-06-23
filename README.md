@@ -17,8 +17,9 @@ This means that offers can be much smaller than invoices, and contain more infor
 
 ## Articles
 
-- [What Are Lightning Offers (BOLT 12)](https://thebitcoinmanual.com/articles/lightning-offers-bolt12/)
+- [What Are Lightning Offers (BOLT 12) ?](https://thebitcoinmanual.com/articles/lightning-offers-bolt12/)
 - [BOLT 12 AND LNURL: WHAT IS THE FUTURE FOR BITCOIN’S LIGHTNING NETWORK?](https://bitcoinmagazine.com/technical/bolt12-lnurl-and-bitcoin-lightning)
+- [BOLT 12 – NATIVELY ENHANCING LIGHTNING’S USER EXPERIENCE](https://voltage.cloud/blog/lightning-network-faq/bolt-12-enhancing-lightning-networks-users-experience/)
 
 ## Ecosystem
 
