@@ -38,7 +38,7 @@ Ecosystem around BOLT12 implementation
 
 - [Spark wallet](https://github.com/shesek/spark-wallet) - A minimalistic wallet GUI for c-lightning (Core Lightning), accessible over the web or through mobile and desktop apps
 
-## Projects
+### Projects
 
 - [VLS (the Validating Lightning Signer)](https://vls.tech/) - An open-source Rust library and reference implementation of software that separates a user's private keys from their Lightning node
 
