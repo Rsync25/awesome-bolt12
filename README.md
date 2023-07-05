@@ -34,9 +34,6 @@ Ecosystem around BOLT12 implementation
 - [Rust-Lightning](https://github.com/lightningdevkit/rust-lightning) - LDK/rust-lightning is a highly performant and flexible implementation of the Lightning Network protocol
 - [Eclair](https://github.com/ACINQ/eclair) - A scala implementation of the Lightning Network.
 
-
-
-
 ### Wallets
 
 - [Spark wallet](https://github.com/shesek/spark-wallet) - A minimalistic wallet GUI for c-lightning (Core Lightning), accessible over the web or through mobile and desktop apps
@@ -44,5 +41,11 @@ Ecosystem around BOLT12 implementation
 ### Projects
 
 - [VLS (Validating Lightning Signer)](https://vls.tech/) - An open-source Rust library and reference implementation of software that separates a user's private keys from their Lightning node
+
+### Social Media
+
+- [NIP-XXX](https://github.com/nostr-protocol/nips/blob/361c439b4860648dda06ff6e6c41dd11e58bb995/XXX.md) - This NIP defines a new event type to communicate trade orders between Nostr relays and clients.
+
+
 
 
