@@ -37,6 +37,7 @@ Ecosystem around BOLT12 implementation
 ### Wallets
 
 - [Spark wallet](https://github.com/shesek/spark-wallet) - A minimalistic wallet GUI for c-lightning (Core Lightning), accessible over the web or through mobile and desktop apps
+- [Phoenix](https://github.com/ACINQ/phoenix) - Phoenix is a self-custodial Bitcoin wallet using Lightning to send/receive payments
 
 ### Projects
 
