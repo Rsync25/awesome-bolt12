@@ -43,6 +43,10 @@ Ecosystem around BOLT12 implementation
 
 - [Spark wallet](https://github.com/shesek/spark-wallet) - A minimalistic wallet GUI for c-lightning (Core Lightning), accessible over the web or through mobile and desktop apps
 - [Phoenix](https://github.com/ACINQ/phoenix) - Phoenix is a self-custodial Bitcoin wallet using Lightning to send/receive payments
+- [Lexe Wallet](https://lexe.app/) - 24/7 Lightning wallet for payments
+- [Firebolt](https://github.com/AreaLayer/FireBolt) -  Bitcoin and Lightning wallet with Nostr, TBD, Hypercore, LN, Bitcoin, Coinjoin and Payjoin
+
+Topics
 
 ### Projects
 
