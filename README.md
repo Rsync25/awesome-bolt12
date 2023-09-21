@@ -38,9 +38,7 @@ Ecosystem around BOLT12 implementation
 - [Eclair](https://github.com/ACINQ/eclair) - A scala implementation of the Lightning Network
 - [Bolt 11](https://github.com/lnbits/bolt11) - Lightning BOLT11 implementation for Python
 - [BOLT12 Address Support](https://github.com/rustyrussell/bolt12address) - BOLT12 Lightning Address Format
-- [LDK Bindings for Garbage-Collected Languages](https://github.com/lightningdevkit/ldk-garbagecollected) - This repo contains an autogeneration system to generate LDK bindings for garbage-collected languages, currently including Java and TypeScript. See below for the current status of the bindings
-
-### Wallets
+- [LDK Bindings for Garbage-Collected Languages](https://github.com/lightningdevkit/ldk-garbagecollected) - This repo contains an autogeneration system to generate LDK bindings for garbage-collected languages, currently including Java and TypeScript
 
 - [Spark wallet](https://github.com/shesek/spark-wallet) - A minimalistic wallet GUI for c-lightning (Core Lightning), accessible over the web or through mobile and desktop apps
 - [Phoenix](https://github.com/ACINQ/phoenix) - Phoenix is a self-custodial Bitcoin wallet using Lightning to send/receive payments
