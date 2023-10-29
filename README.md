@@ -1,7 +1,6 @@
 
 # Awesome BOLT12 ⚡🟣
 
-![image](https://github.com/22388o/awesome-taproot-assets/assets/83122757/b75f91c3-1b38-448b-b635-f271230edafa)
 
 
 ![image](https://github.com/Rsync25/awesome-bolt12/assets/135646455/1792378e-30b8-43ad-9543-b8889c70604d)
