@@ -1,6 +1,7 @@
 
 # Awesome BOLT12 ⚡🟣
 
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 
 ![image](https://github.com/Rsync25/awesome-bolt12/assets/135646455/1792378e-30b8-43ad-9543-b8889c70604d)
