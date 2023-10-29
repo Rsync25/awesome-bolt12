@@ -1,6 +1,9 @@
 
 # Awesome BOLT12 ⚡🟣
 
+![image](https://github.com/Rsync25/awesome-bolt12/assets/135646455/1792378e-30b8-43ad-9543-b8889c70604d)
+
+
 A curated list of resources around BOLT12
 
 ## About BOLT12
@@ -8,6 +11,12 @@ A curated list of resources around BOLT12
 An "offer" has enough information for you to reach out and fetch a real invoice from the issuer, through the Lightning Network itself, just like it would send a payment: no web server needed. Your wallet then pays the actual invoice (or, if you scan an "invoice_request", your wallet sends an invoice which the vendor pays, as an ATM or refund would use).
 
 This means that offers can be much smaller than invoices, and contain more information (currency, vendor name, quantity limits, blinded paths to reach the vendor).
+
+### Potential Use Case
+
+- Crowdfunding
+- Privacy with payments
+- Simple QR Code
 
 ## Resources
 
