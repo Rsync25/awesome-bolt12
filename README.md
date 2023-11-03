@@ -52,6 +52,7 @@ Ecosystem around BOLT12 implementation
 - [Bolt 11](https://github.com/lnbits/bolt11) - Lightning BOLT11 implementation for Python
 - [BOLT12 Address Support](https://github.com/rustyrussell/bolt12address) - BOLT12 Lightning Address Format
 - [LDK Bindings for Garbage-Collected Languages](https://github.com/lightningdevkit/ldk-garbagecollected) - This repo contains an autogeneration system to generate LDK bindings for garbage-collected languages, currently including Java and TypeScript
+- [Breez SDK](
 
 ### Wallet
 
