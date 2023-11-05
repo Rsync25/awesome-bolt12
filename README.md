@@ -60,6 +60,7 @@ Ecosystem around BOLT12 implementation
 - [Phoenix](https://github.com/ACINQ/phoenix) - Phoenix is a self-custodial Bitcoin wallet using Lightning to send/receive payments
 - [Lexe Wallet](https://lexe.app/) - 24/7 Lightning wallet for payments
 - [Firebolt](https://github.com/AreaLayer/FireBolt) -  Bitcoin and Lightning wallet with Nostr, TBD, Hypercore, LN, Bitcoin, Coinjoin and Payjoin
+- [Mutiny Wallet](https://www.mutinywallet.com/) - Non custodial Lightning wallet for browser 
 
 
 ### Projects
