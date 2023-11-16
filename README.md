@@ -28,6 +28,8 @@ This means that offers can be much smaller than invoices, and contain more infor
 - [PR with "Offer" option](https://github.com/lightning/bolts/pull/798)
 - [bootstrap.bolt12.org: API Guide bitcoin version ](https://bootstrap.bolt12.org/)
 - [Offer](https://bitcoinops.org/en/topics/offers/)
+- [[Lightning-dev] Lightning Address in a Bolt 12 world](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-November/004204.html)
+- [Lightning Address](https://gist.github.com/t-bast/78fd797a7da570d293a8663908d3339b)
 
 ## Articles
 
