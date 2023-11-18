@@ -75,5 +75,9 @@ Ecosystem around BOLT12 implementation
 - [NIP-XXX](https://github.com/nostr-protocol/nips/blob/361c439b4860648dda06ff6e6c41dd11e58bb995/XXX.md) - This NIP defines a new event type to communicate trade orders between Nostr relays and clients.
 
 
+## Contributors
 
+<a align="center" href="https://github.com/Rsync25/awesome-bolt12/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Rsync25/awesome-bolt12" />
+</a>
 
