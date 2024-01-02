@@ -1,5 +1,5 @@
 
-# Awesome BOLT12 ⚡🟣
+# Awesome BOLT12 ⚡
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
