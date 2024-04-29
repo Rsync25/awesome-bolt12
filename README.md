@@ -71,6 +71,7 @@ Ecosystem around BOLT12 implementation
 
 - [VLS (Validating Lightning Signer)](https://vls.tech/) - An open-source Rust library and reference implementation of software that separates a user's private keys from their Lightning node
 - [CivKit](https://github.com/civkit/civkit-node) - An open-source P2P makertplace use Nostr and Lightning Network
+- [Ocean Mining](https://ocean.xyz/) - Mining Pool
 
 ### Social Media
 
