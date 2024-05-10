@@ -55,8 +55,8 @@ Ecosystem around BOLT12 implementation
 - [Bolt 11](https://github.com/lnbits/bolt11) - Lightning BOLT11 implementation for Python
 - [BOLT12 Address Support](https://github.com/rustyrussell/bolt12address) - BOLT12 Lightning Address Format
 - [LDK Bindings for Garbage-Collected Languages](https://github.com/lightningdevkit/ldk-garbagecollected) - This repo contains an autogeneration system to generate LDK bindings for garbage-collected languages, currently including Java and TypeScript
-- [Breez SDK](https://github.com/breez/breez-sdk) - The Breez SDK enables mobile developers to integrate Lightning and bitcoin payments into their apps with a very shallow learning curve. The use cases are endless – from social apps that want to integrate tipping between users to content-creation apps interested in adding bitcoin monetization
-- [Lightning Network Daemon (LND)](https://github.com/lightningnetwork/lnd) - The Lightning Network Daemon (lnd) - is a complete implementation of a Lightning Network node. lnd has several pluggable back-end chain services including btcd (a full-node), bitcoind, and neutrino (a new experimental light client).
+- [Breez SDK](https://github.com/breez/breez-sdk) - The Breez SDK enables mobile developers to integrate Lightning and bitcoin payments into their apps with a very shallow learning curve. The use cases are endless – from social apps that want to integrate tipping between users to content-creation apps interested in adding bitcoin monetization (Planned)
+- [Lightning Network Daemon (LND)](https://github.com/lightningnetwork/lnd) - The Lightning Network Daemon (lnd) - is a complete implementation of a Lightning Network node. lnd has several pluggable back-end chain services including btcd (a full-node), bitcoind, and neutrino (a new experimental light client) (Planned)
 - [BOLT12 PLayground by Strike](https://github.com/LN-Zap/bolt12-playground) - This Bolt 12 Playground provides a docker stack that comprises of bitcoind, LND, CLN, Eclair and LNDK. It connects everything together, initializes wallets, and creates channels between the nodes.
 
 ### Wallet
@@ -64,14 +64,14 @@ Ecosystem around BOLT12 implementation
 - [Spark wallet](https://github.com/shesek/spark-wallet) - A minimalistic wallet GUI for c-lightning (Core Lightning), accessible over the web or through mobile and desktop apps
 - [Phoenix](https://github.com/ACINQ/phoenix) - Phoenix is a self-custodial Bitcoin wallet using Lightning to send/receive payments
 - [Lexe Wallet](https://lexe.app/) - 24/7 Lightning wallet for payments
-- [Firebolt](https://github.com/AreaLayer/FireBolt) -  Bitcoin and Lightning wallet with Nostr, TBD, Hypercore, LN, Bitcoin, Coinjoin and Payjoin
-- [Mutiny Wallet](https://www.mutinywallet.com/) - Non custodial Lightning wallet for browser 
+- [Firebolt](https://github.com/AreaLayer/FireBolt) -  Bitcoin and Lightning wallet with Nostr, TBD, Hypercore, LN, Bitcoin, Coinjoin and Payjoin (Planned)
+- [Mutiny Wallet](https://www.mutinywallet.com/) - Non custodial Lightning wallet for browser (Planned)
 
 
 ### Projects
 
 - [VLS (Validating Lightning Signer)](https://vls.tech/) - An open-source Rust library and reference implementation of software that separates a user's private keys from their Lightning node
-- [CivKit](https://github.com/civkit/civkit-node) - An open-source P2P makertplace use Nostr and Lightning Network
+- [CivKit](https://github.com/civkit/civkit-node) - An open-source P2P makertplace use Nostr and Lightning Network (Planned)
 - [Ocean Mining](https://ocean.xyz/) - Mining Pool
 - [BOLT12 design](https://bolt12.netlify.app/)
 
