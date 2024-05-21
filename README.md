@@ -40,7 +40,7 @@ This means that offers can be much smaller than invoices, and contain more infor
 - [How BOLT12 increases Lightning's privacy](https://www.litebit.eu/en/news/bolt12-lightning)
 - [BOLT12 tread by LNCapital](https://twitter.com/TorqLN/status/1589321548133203968)
 - [A pleb’s journal to running BOLT12 with CLN, PART 1](https://stacker.news/items/538702)
-
+- [BOLT12 has arrived](https://lightningdevkit.org/blog/bolt12-has-arrived/)
 
 ## Ecosystem
 
