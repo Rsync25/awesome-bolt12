@@ -65,7 +65,7 @@ Ecosystem around BOLT12 implementation
 - [Spark wallet](https://github.com/shesek/spark-wallet) - A minimalistic wallet GUI for c-lightning (Core Lightning), accessible over the web or through mobile and desktop apps
 - [Phoenix](https://github.com/ACINQ/phoenix) - Phoenix is a self-custodial Bitcoin wallet using Lightning to send/receive payments
 - [Lexe Wallet](https://lexe.app/) - 24/7 Lightning wallet for payments
-- [Firebolt](https://github.com/AreaLayer/firebol-react-native) -  Bitcoin and Lightning wallet with Nostr, TBD, Hypercore, LN, Bitcoin, Coinjoin and Payjoin (Planned)
+- [Firebolt](https://github.com/AreaLayer/firebolt-react-native) -  Bitcoin and Lightning wallet with Nostr, Lightning Network, Bitcoin, Coinjoin and Payjoin (Planned)
 - [Mutiny Wallet](https://www.mutinywallet.com/) - Non custodial Lightning wallet for browser (Planned)
 - [Zeus](https://zeusln.com/) - ZEUS is an open-source, self-custodial Bitcoin wallet that gives you full control over how you make payments (Planned)
 
