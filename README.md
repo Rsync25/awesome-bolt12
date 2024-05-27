@@ -71,7 +71,7 @@ Ecosystem around BOLT12 implementation
 
 ### Exchanges
 
-- [Bitswap](https://github.com/Bitswap-Bi-Fi) - AMM DEX over Lightning Network by RGB protocol (Planned)
+- [Bitswap](https://github.com/Bitswap-BiFi) - AMM DEX over Lightning Network by RGB protocol (Planned)
 
 
 ### Projects
