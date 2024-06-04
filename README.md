@@ -7,7 +7,10 @@
 ![image](https://github.com/Rsync25/awesome-bolt12/assets/135646455/1792378e-30b8-43ad-9543-b8889c70604d)
 
 
-A curated list of resources around BOLT12
+>A curated list of resources around BOLT12
+
+**Contributions are welcome**
+
 
 ## About BOLT12
 
