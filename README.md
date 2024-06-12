@@ -82,8 +82,14 @@ Ecosystem around BOLT12 implementation
 - [VLS (Validating Lightning Signer)](https://vls.tech/) - An open-source Rust library and reference implementation of software that separates a user's private keys from their Lightning node
 - [CivKit](https://github.com/civkit/civkit-node) - An open-source P2P makertplace use Nostr and Lightning Network (Planned)
 - [Ocean Mining](https://ocean.xyz/) - Mining Pool
-- [BOLT12 design](https://bolt12.netlify.app/)
+- [BOLT12 design](https://bolt12.org/)
+- [BIP-353](https://github.com/bitcoin/bips/pull/1551/files)
+- [ROYGBIV.GUIDE](https://www.roygbiv.guide/)
+- [Clams](https://clams.tech/)
+- [Twelve Cash](https://twelve.cash/)
 
+
+  
 ### Social Media
 
 - [NIP-XXX](https://github.com/nostr-protocol/nips/blob/361c439b4860648dda06ff6e6c41dd11e58bb995/XXX.md) - This NIP defines a new event type to communicate trade orders between Nostr relays and clients.
