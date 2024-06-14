@@ -70,8 +70,8 @@ Ecosystem around BOLT12 implementation
 - [Lexe Wallet](https://lexe.app/) - 24/7 Lightning wallet for payments
 - [Firebolt](https://github.com/AreaLayer/firebolt-react-native) -  Bitcoin and Lightning wallet with Nostr, Lightning Network, Bitcoin, Coinjoin and Payjoin (Planned)
 - [Mutiny Wallet](https://www.mutinywallet.com/) - Non custodial Lightning wallet for browser (Planned)
-- [Zeus](https://zeusln.com/) - ZEUS is an open-source, self-custodial Bitcoin wallet that gives you full control over how you make payments (Planned)
-
+- [Zeus](https://zeusln.com/) - ZEUS is an open-source, self-custodial Bitcoin wallet that gives you full control over how you make payments
+  
 ### Exchanges
 
 - [Bitswap](https://github.com/Bitswap-BiFi) - AMM DEX over Lightning Network by RGB protocol (Planned)
