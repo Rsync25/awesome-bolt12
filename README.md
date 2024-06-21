@@ -45,6 +45,7 @@ This means that offers can be much smaller than invoices, and contain more infor
 - [BOLT12 tread by LNCapital](https://twitter.com/TorqLN/status/1589321548133203968)
 - [A pleb’s journal to running BOLT12 with CLN, PART 1](https://stacker.news/items/538702)
 - [BOLT12 has arrived](https://lightningdevkit.org/blog/bolt12-has-arrived/)
+- [The BOLT 12 Playground](https://strike.me/blog/bolt12-playground/)
 
 ## Ecosystem
 
@@ -63,6 +64,7 @@ Ecosystem around BOLT12 implementation
 - [Breez SDK](https://github.com/breez/breez-sdk) - The Breez SDK enables mobile developers to integrate Lightning and bitcoin payments into their apps with a very shallow learning curve. The use cases are endless – from social apps that want to integrate tipping between users to content-creation apps interested in adding bitcoin monetization (Planned)
 - [Lightning Network Daemon (LND)](https://github.com/lightningnetwork/lnd) - The Lightning Network Daemon (lnd) - is a complete implementation of a Lightning Network node. lnd has several pluggable back-end chain services including btcd (a full-node), bitcoind, and neutrino (a new experimental light client) (Planned)
 - [BOLT12 PLayground by Strike](https://github.com/LN-Zap/bolt12-playground) - This Bolt 12 Playground provides a docker stack that comprises of bitcoind, LND, CLN, Eclair and LNDK. It connects everything together, initializes wallets, and creates channels between the nodes.
+- [LDK Offer Parser Reproducer](https://github.com/LN-Zap/ldk-offer-parser-reproducer) -  Sample repository to reproduce ldk offer parser issues 
 
 ### Wallet
 
