@@ -87,11 +87,11 @@ Ecosystem around BOLT12 implementation
 - [VLS (Validating Lightning Signer)](https://vls.tech/) - An open-source Rust library and reference implementation of software that separates a user's private keys from their Lightning node
 - [CivKit](https://github.com/civkit/civkit-node) - An open-source P2P makertplace use Nostr and Lightning Network (Planned)
 - [Ocean Mining](https://ocean.xyz/) - Mining Pool
-- [BOLT12 design](https://bolt12.org/)
-- [BIP-353](https://github.com/bitcoin/bips/pull/1551/files)
-- [ROYGBIV.GUIDE](https://www.roygbiv.guide/)
-- [Clams](https://clams.tech/)
-- [Twelve Cash](https://twelve.cash/)
+- [BOLT12 design](https://bolt12.org/) - Design and guides to BOLT12
+- [BIP-353](https://github.com/bitcoin/bips/pull/1551/files) - BIP for support BOLT12
+- [ROYGBIV.GUIDE](https://www.roygbiv.guide/) - roygbiv.guide is a blog for those interested in Lightning Prisms based on BOLT12.
+- [Clams](https://clams.tech/) - Visualize your Sats Flow
+- [Twelve Cash](https://twelve.cash/) - A simple way to receive bitcoin
 
 
   
