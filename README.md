@@ -65,7 +65,8 @@ Ecosystem around BOLT12 implementation
 - [Lightning Network Daemon (LND)](https://github.com/lightningnetwork/lnd) - The Lightning Network Daemon (lnd) - is a complete implementation of a Lightning Network node. lnd has several pluggable back-end chain services including btcd (a full-node), bitcoind, and neutrino (a new experimental light client) (Planned)
 - [BOLT12 PLayground by Strike](https://github.com/LN-Zap/bolt12-playground) - This Bolt 12 Playground provides a docker stack that comprises of bitcoind, LND, CLN, Eclair and LNDK. It connects everything together, initializes wallets, and creates channels between the nodes.
 - [LDK Offer Parser Reproducer](https://github.com/LN-Zap/ldk-offer-parser-reproducer) -  Sample repository to reproduce ldk offer parser issues
-- [LDK Node](https://github.com/lightningdevkit/ldk-node) - A ready-to-go node implementation built using LDK. 
+- [LDK Node](https://github.com/lightningdevkit/ldk-node) - A ready-to-go node implementation built using LDK.
+- [Phoenixd](https://github.com/ACINQ/phoenixd/) - Phoenixd is the server equivalent of the popular phoenix wallet for mobile
 
 ### Wallet
 
