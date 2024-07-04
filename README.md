@@ -67,6 +67,7 @@ Ecosystem around BOLT12 implementation
 - [LDK Offer Parser Reproducer](https://github.com/LN-Zap/ldk-offer-parser-reproducer) -  Sample repository to reproduce ldk offer parser issues
 - [LDK Node](https://github.com/lightningdevkit/ldk-node) - A ready-to-go node implementation built using LDK.
 - [Phoenixd](https://github.com/ACINQ/phoenixd/) - Phoenixd is the server equivalent of the popular phoenix wallet for mobile
+- [Payto](https://github.com/urza/payto) - Core Lightning (CLN) companion app that can pay to lightning address, LNURL, BIP353 (DNS Payment Instructions) and bolt12 offers
 
 ### Wallet
 
