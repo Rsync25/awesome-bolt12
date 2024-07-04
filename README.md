@@ -58,7 +58,6 @@ Ecosystem around BOLT12 implementation
 - [bolt12.dart](https://github.com/dart-lightning/lndart.bolt12) - A dart implementation of lightning network BOLT12
 - [Rust-Lightning](https://github.com/lightningdevkit/rust-lightning) - LDK/rust-lightning is a highly performant and flexible implementation of the Lightning Network protocol
 - [Eclair](https://github.com/ACINQ/eclair) - A scala implementation of the Lightning Network
-- [Bolt 11](https://github.com/lnbits/bolt11) - Lightning BOLT11 implementation for Python
 - [BOLT12 Address Support](https://github.com/rustyrussell/bolt12address) - BOLT12 Lightning Address Format
 - [LDK Bindings for Garbage-Collected Languages](https://github.com/lightningdevkit/ldk-garbagecollected) - This repo contains an autogeneration system to generate LDK bindings for garbage-collected languages, currently including Java and TypeScript
 - [Breez SDK](https://github.com/breez/breez-sdk) - The Breez SDK enables mobile developers to integrate Lightning and bitcoin payments into their apps with a very shallow learning curve. The use cases are endless – from social apps that want to integrate tipping between users to content-creation apps interested in adding bitcoin monetization (Planned)
