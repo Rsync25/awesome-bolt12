@@ -46,6 +46,7 @@ This means that offers can be much smaller than invoices, and contain more infor
 - [A pleb’s journal to running BOLT12 with CLN, PART 1](https://stacker.news/items/538702)
 - [BOLT12 has arrived](https://lightningdevkit.org/blog/bolt12-has-arrived/)
 - [The BOLT 12 Playground](https://strike.me/blog/bolt12-playground/)
+- [BOLT12: An Awesome Upgrade Coming For The Lightning Network (2024)](https://athenaalpha.substack.com/p/bolt12-an-awesome-upgrade-coming)
 
 ## Ecosystem
 
