@@ -98,6 +98,7 @@ Ecosystem around BOLT12 implementation
 - [Clams](https://clams.tech/) - Visualize your Sats Flow
 - [Twelve Cash](https://twelve.cash/) - A simple way to receive bitcoin
 - [Ride The Lightning](https://www.ridethelightning.info/) - Ride The Lightning a powerful tool to help manage your lightning node
+- [Lampo](https://lampo.devcrew.cc/) - A fast and modular lightning network implementation for all usages, written in Rust. lampo (lightning in Italian) is a experimental implementation of a tiny lightning node
 
 
   
