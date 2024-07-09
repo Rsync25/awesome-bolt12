@@ -47,6 +47,13 @@ This means that offers can be much smaller than invoices, and contain more infor
 - [BOLT12 has arrived](https://lightningdevkit.org/blog/bolt12-has-arrived/)
 - [The BOLT 12 Playground](https://strike.me/blog/bolt12-playground/)
 - [BOLT12: An Awesome Upgrade Coming For The Lightning Network (2024)](https://athenaalpha.substack.com/p/bolt12-an-awesome-upgrade-coming)
+- [Stephan Livera - The Bolt12 age of Lightning](https://x.com/stephanlivera/status/1808573143012827227)
+- [Why The Denial-Of-Service Argument Against BOLT 12 Doesn’t Hold Up](https://bitcoinmagazine.com/technical/dos-argument-against-bitcoin-bolt-12)
+- [BOLT12 on the phoenix phoenixd ecosystem](https://massmux.org/p/bolt12-on-the-phoenix-phoenixd-ecosystem)
+
+## Videos
+
+- [ LIGHTNING NETWORK CON GLI STEROIDI: BOLT12 E GLI INDIRIZZI RIUTILIZZABILI](https://www.youtube.com/watch?v=Et5m6HwaRC8)
 
 ## Ecosystem
 
