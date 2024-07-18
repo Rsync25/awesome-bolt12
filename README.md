@@ -24,6 +24,7 @@ This means that offers can be much smaller than invoices, and contain more infor
 - Privacy with payments
 - Static QR
 - Simple QR Code
+- Reuse address
 
 ## Resources
 
