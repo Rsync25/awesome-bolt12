@@ -89,7 +89,8 @@ Ecosystem around BOLT12 implementation
 - [Breez Mobile Wallet](https://breez.technology/mobile/) - The Breez mobile app is a favorite of Lightning wizards and rookies alike. With a non-custodial Lightning node running on your mobile device (Planned)
 - [Plasma](https://github.com/Fonta1n3/Plasma) -  Core Lightning Wallet powered by LNSocket
 - [Alby](https://getalby.com/) - Your Bitcoin & Nostr companion for the web (Planned)
-  
+- [Zaprite](https://zaprite.com/) - Bitcoin payments made easy (Plannned)
+
 ### Exchanges
 
 - [Bitswap](https://github.com/Bitswap-BiFi) - AMM DEX over Lightning Network by RGB protocol (Planned)
@@ -111,6 +112,7 @@ Ecosystem around BOLT12 implementation
 - [Bolt12 API](https://github.com/ATLBitLab/twelvecash) - API for BOLT12
 - [Twelve Cash](https://twelve.cash/) - A simple way to share your bitcoin payment info with the world.
 - [El Tor](https://bitbucket.org/eltordev/workspace/projects/ELTOR) - El Tor aims to enhance the Tor network with high-bandwidth capabilities, powered by the Bitcoin Lightning Network
+- [Zaprite](https://zaprite.com/) - Bitcoin payments made easy (Planned)
   
 ### Social Media
 
