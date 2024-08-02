@@ -1,4 +1,3 @@
-
 # Awesome BOLT12 ⚡ 🟣
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
@@ -51,6 +50,7 @@ This means that offers can be much smaller than invoices, and contain more infor
 - [Stephan Livera - The Bolt12 age of Lightning](https://x.com/stephanlivera/status/1808573143012827227)
 - [Why The Denial-Of-Service Argument Against BOLT 12 Doesn’t Hold Up](https://bitcoinmagazine.com/technical/dos-argument-against-bitcoin-bolt-12)
 - [BOLT12 on the phoenix phoenixd ecosystem](https://massmux.org/p/bolt12-on-the-phoenix-phoenixd-ecosystem)
+- [Lightning Network In A Class Of Its Own At Bitcoin 2024 Conference](https://www.nasdaq.com/articles/lightning-network-class-its-own-bitcoin-2024-conference)
 
 ## Videos
 
