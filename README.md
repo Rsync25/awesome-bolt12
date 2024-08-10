@@ -84,7 +84,6 @@ Ecosystem around BOLT12 implementation
 - [Phoenix](https://github.com/ACINQ/phoenix) - Phoenix is a self-custodial Bitcoin wallet using Lightning to send/receive payments
 - [Lexe Wallet](https://lexe.app/) - 24/7 Lightning wallet for payments
 - [Firebolt](https://github.com/AreaLayer/firebolt-react-native) -  Bitcoin and Lightning wallet with Nostr, Lightning Network, Bitcoin, Coinjoin and Payjoin (Planned)
-- [Mutiny Wallet](https://www.mutinywallet.com/) - Non custodial Lightning wallet for browser (Planned)
 - [Zeus](https://zeusln.com/) - ZEUS is an open-source, self-custodial Bitcoin wallet that gives you full control over how you make payments
 - [Breez Mobile Wallet](https://breez.technology/mobile/) - The Breez mobile app is a favorite of Lightning wizards and rookies alike. With a non-custodial Lightning node running on your mobile device (Planned)
 - [Plasma](https://github.com/Fonta1n3/Plasma) -  Core Lightning Wallet powered by LNSocket
