@@ -21,8 +21,7 @@ This means that offers can be much smaller than invoices, and contain more infor
 
 - Crowdfunding
 - Privacy with payments
-- Static QR
-- Simple QR Code
+- Static QR Code
 - Reuse address
 
 ## Resources
