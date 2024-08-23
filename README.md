@@ -86,6 +86,7 @@ Ecosystem around BOLT12 implementation
 - [Zeus](https://zeusln.com/) - ZEUS is an open-source, self-custodial Bitcoin wallet that gives you full control over how you make payments
 - [Breez Mobile Wallet](https://breez.technology/mobile/) - The Breez mobile app is a favorite of Lightning wizards and rookies alike. With a non-custodial Lightning node running on your mobile device (Planned)
 - [Plasma](https://github.com/Fonta1n3/Plasma) -  Core Lightning Wallet powered by LNSocket
+- [BitBanana](https://bitbanana.app/) - Lightning Node Management for Android
 - [Alby](https://getalby.com/) - Your Bitcoin & Nostr companion for the web (Planned)
 - [Zaprite](https://zaprite.com/) - Bitcoin payments made easy (Plannned)
 
