@@ -23,6 +23,7 @@ This means that offers can be much smaller than invoices, and contain more infor
 - Privacy with payments
 - Static QR Code
 - Reuse address
+- Compatibility between Lightning implementations (LNDK, CLN, Eclair...)
 
 ## Resources
 
