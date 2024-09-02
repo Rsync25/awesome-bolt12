@@ -115,7 +115,7 @@ Ecosystem around BOLT12 implementation
 - [Sats To Me](https://satsto.me/) -  BIP 353 defines the way to use simple human-readable names for Bitcoin payments. 
 - [Zaprite](https://zaprite.com/) - Bitcoin payments made easy (Planned)
   
-### Social Media
+### Social Media (Nostr)
 
 - [NIP-XXX](https://github.com/nostr-protocol/nips/blob/361c439b4860648dda06ff6e6c41dd11e58bb995/XXX.md) - This NIP defines a new event type to communicate trade orders between Nostr relays and clients.
 
