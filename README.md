@@ -51,6 +51,7 @@ This means that offers can be much smaller than invoices, and contain more infor
 - [Why The Denial-Of-Service Argument Against BOLT 12 Doesn’t Hold Up](https://bitcoinmagazine.com/technical/dos-argument-against-bitcoin-bolt-12)
 - [BOLT12 on the phoenix phoenixd ecosystem](https://massmux.org/p/bolt12-on-the-phoenix-phoenixd-ecosystem)
 - [Lightning Network In A Class Of Its Own At Bitcoin 2024 Conference](https://www.nasdaq.com/articles/lightning-network-class-its-own-bitcoin-2024-conference)
+- [Building BOLT 12 into Strike](https://strike.me/blog/bolt12-offers/)
 
 ## Videos
 
@@ -90,10 +91,12 @@ Ecosystem around BOLT12 implementation
 - [BitBanana](https://bitbanana.app/) - Lightning Node Management for Android
 - [Alby](https://getalby.com/) - Your Bitcoin & Nostr companion for the web (Planned)
 - [Zaprite](https://zaprite.com/) - Bitcoin payments made easy (Plannned)
+- [Strike](https://strike.me/) - Wallet for Bitcoin and lightning network
 
 ### Exchanges
 
 - [Boltz Exchange](https://boltz.exchange/) - Non-Custodial Bitcoin Bridge (Planned)
+- [Strike](https://strike.me/) - Wallet for Bitcoin and lightning network
 
 
 ### Projects
