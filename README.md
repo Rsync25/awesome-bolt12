@@ -118,7 +118,8 @@ Ecosystem around BOLT12 implementation
 - [Sats To Me](https://satsto.me/) -  BIP 353 defines the way to use simple human-readable names for Bitcoin payments. 
 - [Zaprite](https://zaprite.com/) - Bitcoin payments made easy (Planned)
 - [Lightning Lending](https://github.com/AreaLayer/Lightning-Lending) -  Open/close channel on Lightning Network using Nostr and DLCs
-- [HashPool](https://crates.io/crates/Hash_Pool) -  A simple library for Mining pools and developers 
+- [HashPool](https://crates.io/crates/Hash_Pool) -  A simple library for Mining pools and developers
+- [BOLT12 WASM](https://github.com/BoltzExchange/bolt12-wasm) - Parse Bolt12 offers and invoices in JavaScript by compiling LDK to WASM
   
 ### Social Media (Nostr)
 
