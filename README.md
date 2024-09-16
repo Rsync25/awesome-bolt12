@@ -55,7 +55,11 @@ This means that offers can be much smaller than invoices, and contain more infor
 
 ## Videos
 
-- [ LIGHTNING NETWORK CON GLI STEROIDI: BOLT12 E GLI INDIRIZZI RIUTILIZZABILI](https://www.youtube.com/watch?v=Et5m6HwaRC8)
+- [LIGHTNING NETWORK CON GLI STEROIDI: BOLT12 E GLI INDIRIZZI RIUTILIZZABILI](https://www.youtube.com/watch?v=Et5m6HwaRC8)
+
+## Podcast
+
+- [Can Lightning Liquidity Be Solved with Liquid? With Tankred Hase SLP601](https://stephanlivera.com/episode/601/)
 
 ## Ecosystem
 
@@ -120,6 +124,8 @@ Ecosystem around BOLT12 implementation
 - [Lightning Lending](https://github.com/AreaLayer/Lightning-Lending) -  Open/close channel on Lightning Network using Nostr and DLCs
 - [HashPool](https://crates.io/crates/Hash_Pool) -  A simple library for Mining pools and developers
 - [BOLT12 WASM](https://github.com/BoltzExchange/bolt12-wasm) - Parse Bolt12 offers and invoices in JavaScript by compiling LDK to WASM
+- [Docker DLC](https://github.com/Horus-Org/docker-dlc/) - Docker source for DLCs
+- [Dart DLC](https://github.com/Horus-Org/dart-dlc) -  A pure Dart DLC Library 
   
 ### Social Media (Nostr)
 
