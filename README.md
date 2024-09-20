@@ -81,8 +81,7 @@ Ecosystem around BOLT12 implementation
 - [LDK Node](https://github.com/lightningdevkit/ldk-node) - A ready-to-go node implementation built using LDK.
 - [Phoenixd](https://github.com/ACINQ/phoenixd/) - Phoenixd is the server equivalent of the popular phoenix wallet for mobile
 - [Payto](https://github.com/urza/payto) - Core Lightning (CLN) companion app that can pay to lightning address, LNURL, BIP353 (DNS Payment Instructions) and bolt12 offers
-- [Javascript DLC](https://github.com/AreaLayer/javascript-dlc) - Javascript library for working with Discreet Log Contracts and Lightning Network 
-
+  
 ### Wallet
 
 - [Spark wallet](https://github.com/shesek/spark-wallet) - A minimalistic wallet GUI for c-lightning (Core Lightning), accessible over the web or through mobile and desktop apps
@@ -125,7 +124,9 @@ Ecosystem around BOLT12 implementation
 - [HashPool](https://crates.io/crates/Hash_Pool) -  A simple library for Mining pools and developers
 - [BOLT12 WASM](https://github.com/BoltzExchange/bolt12-wasm) - Parse Bolt12 offers and invoices in JavaScript by compiling LDK to WASM
 - [Docker DLC](https://github.com/Horus-Org/docker-dlc/) - Docker source for DLCs
-- [Dart DLC](https://github.com/Horus-Org/dart-dlc) -  A pure Dart DLC Library 
+- [Dart DLC](https://github.com/Horus-Org/dart-dlc) -  A pure Dart DLC Library
+- [Javascript DLC](https://github.com/AreaLayer/javascript-dlc) - Javascript library for working with Discreet Log Contracts and Lightning Network 
+- [Selfie Records](https://selfie-records.com/) - Explore the world of DNS TXT records for payments, identities and beyond.
   
 ### Social Media (Nostr)
 
