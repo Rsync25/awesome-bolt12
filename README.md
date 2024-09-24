@@ -35,6 +35,7 @@ This means that offers can be much smaller than invoices, and contain more infor
 - [Offer](https://bitcoinops.org/en/topics/offers/)
 - [[Lightning-dev] Lightning Address in a Bolt 12 world](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-November/004204.html)
 - [Lightning Address](https://gist.github.com/t-bast/78fd797a7da570d293a8663908d3339b)
+- [BOLT12 Spec](https://github.com/lightning/bolts/blob/master/12-offer-encoding.md)
 
 ## Articles
 
