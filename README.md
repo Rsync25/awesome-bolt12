@@ -99,7 +99,7 @@ Ecosystem around BOLT12 implementation
 
 ### Exchanges
 
-- [Boltz Exchange](https://boltz.exchange/) - Non-Custodial Bitcoin Bridge (Planned)
+- [Boltz Exchange](https://boltz.exchange/) - Non-Custodial Bitcoin Bridge
 - [Strike](https://strike.me/) - Wallet for Bitcoin and lightning network
 
 
