@@ -20,7 +20,7 @@ This means that offers can be much smaller than invoices, and contain more infor
 ### Potential Use Case
 
 - Crowdfunding
-- Privacy with payments
+- Privacy with payments using Onion message
 - Static QR Code
 - Reuse address
 - Compatibility between Lightning implementations (LNDK, CLN, Eclair...)
