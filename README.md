@@ -53,6 +53,7 @@ This means that offers can be much smaller than invoices, and contain more infor
 - [BOLT12 on the phoenix phoenixd ecosystem](https://massmux.org/p/bolt12-on-the-phoenix-phoenixd-ecosystem)
 - [Lightning Network In A Class Of Its Own At Bitcoin 2024 Conference](https://www.nasdaq.com/articles/lightning-network-class-its-own-bitcoin-2024-conference)
 - [Building BOLT 12 into Strike](https://strike.me/blog/bolt12-offers/)
+- [Revolutionary BOLT12 Update Elevates Bitcoin Lightning Network with Private, Reusable Addresses](https://www.bitget.com/news/detail/12560604235498)
 
 ## Videos
 
