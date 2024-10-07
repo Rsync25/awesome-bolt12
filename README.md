@@ -131,6 +131,7 @@ Ecosystem around BOLT12 implementation
 - [Selfie Records](https://selfie-records.com/) - Explore the world of DNS TXT records for payments, identities and beyond.
 - [BIP 353 Lib](https://github.com/Horus-Org/bip-353-lib) - React Native for BIP-353 (DNS Payments)
 - [Cashu Dev Kit(CDK)](https://github.com/cashubtc/cdk) -CDK is a collection of rust crates for Cashu wallets and mints written in Rust (Planned)
+- [Stable Channels](https://github.com/toneloc/stable-channels) Stable Channels allow Lightning Network node operators to keep one side of a channel stable in dollar terms.
   
 ### Social Media (Nostr)
 
