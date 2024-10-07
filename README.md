@@ -63,6 +63,7 @@ This means that offers can be much smaller than invoices, and contain more infor
 
 - [Can Lightning Liquidity Be Solved with Liquid? With Tankred Hase SLP601](https://stephanlivera.com/episode/601/)
 - [Bitcoin Lightning Debate: LNURL vs BOLT 12](https://www.youtube.com/watch?v=Vk7Eyi9SHj0)
+- [Learning Bitcoin and Design #10: BOLT 12 Offers](https://www.youtube.com/watch?v=fezdm8hFUjY)
 
 ## Ecosystem
 
