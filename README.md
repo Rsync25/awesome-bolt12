@@ -58,6 +58,7 @@ This means that offers can be much smaller than invoices, and contain more infor
 ## Videos
 
 - [LIGHTNING NETWORK CON GLI STEROIDI: BOLT12 E GLI INDIRIZZI RIUTILIZZABILI](https://www.youtube.com/watch?v=Et5m6HwaRC8)
+- [Demo LDK + Rust + BOLT12 + Stable channels](https://stacker.news/items/713718)
 
 ## Podcast
 
@@ -130,7 +131,8 @@ Ecosystem around BOLT12 implementation
 - [Javascript DLC](https://github.com/AreaLayer/javascript-dlc) - Javascript library for working with Discreet Log Contracts and Lightning Network 
 - [Selfie Records](https://selfie-records.com/) - Explore the world of DNS TXT records for payments, identities and beyond.
 - [BIP 353 Lib](https://github.com/Horus-Org/bip-353-lib) - React Native for BIP-353 (DNS Payments)
-- [Cashu Dev Kit(CDK)](https://github.com/cashubtc/cdk) -CDK is a collection of rust crates for Cashu wallets and mints written in Rust (Planned)
+- [Cashu Dev Kit(CDK)](https://github.com/cashubtc/cdk) - CDK is a collection of rust crates for Cashu wallets and mints written in Rust (Planned)
+- [Stable Channels](https://stablechannels.com/) - P2P Bitcoin-powered USD stability
   
 ### Social Media (Nostr)
 
