@@ -60,6 +60,7 @@ This means that offers can be much smaller than invoices, and contain more infor
 - [LIGHTNING NETWORK CON GLI STEROIDI: BOLT12 E GLI INDIRIZZI RIUTILIZZABILI](https://www.youtube.com/watch?v=Et5m6HwaRC8)
 - [Bitcoin Lightning Debate: LNURL vs BOLT 12](https://www.youtube.com/watch?v=Vk7Eyi9SHj0)
 - [Learning Bitcoin and Design #10: BOLT 12 Offers](https://www.youtube.com/watch?v=fezdm8hFUjY)
+- [Demo LDK + Rust + BOLT12 + Stable channels](https://stacker.news/items/713718)
 
 ## Podcast
 
