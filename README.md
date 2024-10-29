@@ -54,6 +54,7 @@ This means that offers can be much smaller than invoices, and contain more infor
 - [Lightning Network In A Class Of Its Own At Bitcoin 2024 Conference](https://www.nasdaq.com/articles/lightning-network-class-its-own-bitcoin-2024-conference)
 - [Building BOLT 12 into Strike](https://strike.me/blog/bolt12-offers/)
 - [Revolutionary BOLT12 Update Elevates Bitcoin Lightning Network with Private, Reusable Addresses](https://www.bitget.com/news/detail/12560604235498)
+- [BOLT 12: A Game-Changer for Bitcoin Lightning Network Invoicing](https://medium.com/@kootie73/bolt-12-a-game-changer-for-bitcoin-lightning-network-invoicing-36a72032cb84)
 
 ## Videos
 
