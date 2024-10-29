@@ -21,8 +21,8 @@ This means that offers can be much smaller than invoices, and contain more infor
 
 - Crowdfunding
 - Privacy with payments using Onion message
-- Static QR Code
-- Reuse address
+- Static QR Code 
+- Reuse address (non-expire)
 - Compatibility between Lightning implementations (LNDK, CLN, Eclair...)
 
 ## Resources
