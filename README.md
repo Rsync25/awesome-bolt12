@@ -72,7 +72,7 @@ This means that offers can be much smaller than invoices, and contain more infor
 
 ## Ecosystem
 
-Ecosystem around BOLT12 implementation
+Ecosystem and adoption around BOLT12 implementation
 
 ### Lightning Implementations 
 
