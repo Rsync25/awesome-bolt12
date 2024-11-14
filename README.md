@@ -65,6 +65,7 @@ This means that offers can be much smaller than invoices, and contain more infor
 - [Demo LDK + Rust + BOLT12 + Stable channels](https://stacker.news/items/713718)
 - [BOLT12 Makes Bitcoin Digital Cash | Jeff Czyz | bitcoin++ ATX script edition | May 2024 | Austin, TX](https://www.youtube.com/watch?v=LRk3BAB30vU)
 - [LDK: Lightning Like You Mean It | Conor Okus | bitcoin++ ATX script edition | May 2024 | Austin TX](https://www.youtube.com/watch?v=LRk3BAB30vU)
+- [What Is Lightning’s BOLT12 and Offers? - Explained by Blockstream](https://www.youtube.com/watch?v=TcjmgEKIJio)
 
 ## Podcast
 
