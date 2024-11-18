@@ -105,6 +105,7 @@ Ecosystem and adoption around BOLT12 implementation
 - [Alby](https://getalby.com/) - Your Bitcoin & Nostr companion for the web (Planned)
 - [Zaprite](https://zaprite.com/) - Bitcoin payments made easy (Plannned)
 - [Strike](https://strike.me/) - Wallet for Bitcoin and lightning network
+- [Coinos](https://coinos.io/) - The easiest way to get started with bitcoin.
 
 ### Exchanges
 
