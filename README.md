@@ -24,6 +24,7 @@ This means that offers can be much smaller than invoices, and contain more infor
 - Static QR Code 
 - Reuse address (non-expire)
 - Compatibility between Lightning implementations (LNDK, CLN, Eclair...)
+- Swaps for Exchanges
 
 ## Resources
 
