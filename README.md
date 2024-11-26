@@ -108,6 +108,7 @@ Ecosystem and adoption around BOLT12 implementation
 - [Zaprite](https://zaprite.com/) - Bitcoin payments made easy (Plannned)
 - [Strike](https://strike.me/) - Wallet for Bitcoin and lightning network
 - [Coinos](https://coinos.io/) - The easiest way to get started with bitcoin.
+- [LifPay](https://lifpay.me/en/) -More than a Bitcoin Lightning Wallet
 
 ### Exchanges
 
