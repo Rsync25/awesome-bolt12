@@ -143,6 +143,7 @@ Ecosystem and adoption around BOLT12 implementation
 - [BIP 353 Lib](https://github.com/Horus-Org/bip-353-lib) - React Native for BIP-353 (DNS Payments)
 - [Cashu Dev Kit(CDK)](https://github.com/cashubtc/cdk) - CDK is a collection of rust crates for Cashu wallets and mints written in Rust (Planned)
 - [Stable Channels](https://github.com/toneloc/stable-channels)  - Stable Channels allow Lightning Network node operators to keep one side of a channel stable in dollar terms.
+- [Aesir](https://github.com/krutt/aesir) -  Command line interface used for setting up local regtest Bitcoin & Lightning cluster using Docker Daemon 
 - [Boltz Client](https://github.com/BoltzExchange/boltz-client) -  Boltz Client for CLN & LND 
   
 ### Social Media (Nostr)
