@@ -144,7 +144,8 @@ Ecosystem and adoption around BOLT12 implementation
 - [Cashu Dev Kit(CDK)](https://github.com/cashubtc/cdk) - CDK is a collection of rust crates for Cashu wallets and mints written in Rust (Planned)
 - [Stable Channels](https://github.com/toneloc/stable-channels)  - Stable Channels allow Lightning Network node operators to keep one side of a channel stable in dollar terms.
 - [Aesir](https://github.com/krutt/aesir) -  Command line interface used for setting up local regtest Bitcoin & Lightning cluster using Docker Daemon 
-- [Boltz Client](https://github.com/BoltzExchange/boltz-client) -  Boltz Client for CLN & LND 
+- [Boltz Client](https://github.com/BoltzExchange/boltz-client) -  Boltz Client for CLN & LND
+- [Light BOLT12 Decoder](https://github.com/Horus-Org/light-bolt12-decoder) -  Super lightweight Lightning Network invoice decoder  fork of Light BOLT11 Decoder
   
 ### Social Media (Nostr)
 
