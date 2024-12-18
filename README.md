@@ -80,6 +80,7 @@ Ecosystem and adoption around BOLT12 implementation
 ### Lightning Implementations 
 
 - [LNDK](https://github.com/lndk-org/lndk) - LNDK is a standalone daemon that connects to LND (via its grpc API) that aims to implement bolt 12 functionality externally to LND. LNDK leverages the lightning development kit to provide functionality, acting as a thin "shim" between LND's APIs and LDK's lightning library
+- [LND](https://github.com/lightningnetwork/lnd) - Implementation of a Lightning Network Node provides superior reliability, interoperability and security for global-scale financial applications (Planned)
 - [Core Lightning](https://github.com/ElementsProject/lightning) - Lightning Network implementation focusing on spec compliance and performance
 - [bolt12.dart](https://github.com/dart-lightning/lndart.bolt12) - A dart implementation of lightning network BOLT12
 - [Rust-Lightning](https://github.com/lightningdevkit/rust-lightning) - LDK/rust-lightning is a highly performant and flexible implementation of the Lightning Network protocol
