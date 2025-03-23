@@ -150,6 +150,7 @@ Ecosystem and adoption around BOLT12 implementation
 - [Boltz Client](https://github.com/BoltzExchange/boltz-client) -  Boltz Client for CLN & LND
 - [Light BOLT12 Decoder](https://github.com/Horus-Org/light-bolt12-decoder) -  Super lightweight Lightning Network invoice decoder  fork of Light BOLT11 Decoder
 - [BOLT12](https://github.com/rustyrussell/bolt12) - bolt12: JavaScript and Python Routines for the Lightning Network Protocol
+- [BOLT12 Client](https://github.com/michael1011/bolt12-client) - BOLT12 Client
   
 ### Social Media (Nostr)
 
