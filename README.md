@@ -59,6 +59,7 @@ This means that offers can be much smaller than invoices, and contain more infor
 - [BOLT 12: A Game-Changer for Bitcoin Lightning Network Invoicing](https://medium.com/@kootie73/bolt-12-a-game-changer-for-bitcoin-lightning-network-invoicing-36a72032cb84)
 - [Core Lightning v24.11: "The Lightning-Dev Mailing List"](https://blog.blockstream.com/core-lightning-v24-11-the-lightning-dev-mailing-list/)
 - [The Lightning Network Privacy Big Picture: Don't Forget the NSA](https://www.nasdaq.com/articles/lightning-network-privacy-big-picture-dont-forget-nsa)
+- [What is Bolt12 and why this matters](https://massmux.org/p/what-is-bolt12-bitcoin-lightning-network)
 
 ## Videos
 
@@ -73,6 +74,7 @@ This means that offers can be much smaller than invoices, and contain more infor
 ## Podcast
 
 - [Can Lightning Liquidity Be Solved with Liquid? With Tankred Hase SLP601](https://stephanlivera.com/episode/601/)
+- [Fixing Bitcoin Payment UX with Conor Okus and Stephen DeLorme | SLP646](https://stephanlivera.com/episode/646/)
 
 ## Ecosystem
 
